@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neel Sathwara</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img align="right" alt="coding" width=400 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.VMmvImch6VU5pc2VktY1uwHaFj%26pid%3DApi&f=1&ipt=3f3816e8b5c657800922bdc416ade45322c3ba29dd4c651c45c60f7090867bfb&ipo=images">
+<img align="right" alt="coding" width=300 height=300 src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.VMmvImch6VU5pc2VktY1uwHaFj%26pid%3DApi&f=1&ipt=3f3816e8b5c657800922bdc416ade45322c3ba29dd4c651c45c60f7090867bfb&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelsathwara1&label=Profile%20views&color=0e75b6&style=flat" alt="neelsathwara1" /> </p>
 
